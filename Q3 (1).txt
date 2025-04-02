@@ -1,0 +1,13 @@
+1.A regular class can only inherit from one Abstract class, but it can inherit from multiple interfaces.
+
+2. An interface can only declare methods and properties; But an Abstract class in addition to them can have methods and properties with full code.
+
+3. The elements in the Abstract class can have an access level like a normal class; But interfaces do not have this feature.
+
+4. When you add a method to the Abstract class, it is automatically applied to all subclasses; But in the Interface, if you add a method, you must apply it to all subclasses.
+
+5. Abstract classes, like regular classes, can have fields and other elements (such as constants); While an interface does not have this feature. The abstract class can also contain a constructor, but the interface cannot.
+
+6. Abstract is one of the types of classes; But Interface is not a class .
+
+7. The interface can only inherit from the interface, but the abstract class can inherit from the interface, the Abstract class, or other classe
